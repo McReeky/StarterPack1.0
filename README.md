@@ -1,0 +1,2 @@
+# StarterPack1.0
+This starter pack is for new fivem server owners. It includes Weapons, Vehicles, and SERVER SIDE EUP. If you don't have the FiveM $15 Patreon, the EUP will not work unless you set your Max players to 8. If you would like me to make a Non-Server Side EUP starter pack please let me know. PS. THESE RESOURCES I PROVIDE TO YOU NOW ARE NOT MINE. I JUST PUT THEM TOGETHER TO CREATE SOMETHING EASY FOR YOU TO ADD. I'VE LEFT ALL CREDIT INFORMATION IN THE FOLDER ATTACHED. PLEASE DON'T GIVE ME CREDIT.
